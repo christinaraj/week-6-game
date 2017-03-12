@@ -1,0 +1,53 @@
+ body {
+	background-image: url("../images/bo_play_pattern.png");
+	padding-bottom: 70px; 
+}   
+    button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+#title {
+	color: #e5cd30;
+	font-family: 'Righteous', cursive;
+	font-size: 70px;
+
+}
+
+#heading {
+	text-align: center;
+}
+
+.car, 
+#add-car {
+	background-color: #3555c6;
+	font-family: 'Righteous', cursive;
+	font-size: 25px;
+}
+
+#add-car{
+	text-align: center;
+}
+
+#car-form {
+	color: #e5cd30;
+	font-family: 'Righteous', cursive;		
+	font-size: 40px;
+}
+
+p {
+	color: #e5cd30;
+	font-family: 'Righteous', cursive;		
+	font-size: 20px;
+}
+
+#footer {
+    background-color: #e5cd30;
+}
+
+#foot {
+	color: black;
+	font-size: 15px;
+}
